@@ -1,12 +1,11 @@
-import logo from './assets/logo.svg'
+import { Aside } from './Components/Aside'
 import { Container } from './Components/Container'
 function App() {
   return (
     <>
       <Container>
-        <aside>
-          <img src={logo} alt="" />
-        </aside>
+        <Aside>
+        </Aside>
         <h1>Poupapp</h1>
       </Container>
     </>
