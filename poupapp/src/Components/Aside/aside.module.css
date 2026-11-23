@@ -1,0 +1,16 @@
+.aside {
+    max-width: 282px;
+    background-color: var(--neutral-header);
+    padding: 80px 40px;
+    height: 100vh;
+    display: flex;
+    gap: 56px;
+    flex-direction: column;
+}
+
+.footer {
+    color: var(--neutral-text);
+    text-align: center;
+    font-size: 13px;
+    line-height: 120%;
+}
